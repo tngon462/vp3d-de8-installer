@@ -2,6 +2,7 @@
  "version": "1.0.0",
  "releasedAt": "2026-11-01",
  "url": "https://github.com/tngon462/vp3d-de8-installer/releases/download/v1.0.0/de8-installer-v1.0.0.zip",
- "sha256": "423a5a85a1533de0094d2824e59fe92028795a07d57205ab0fe04d86a6d228d5",
- "notes": "DE8 HTTPS installer, verification, rollback and notification-only update check. Release ZIP URL and SHA256 pending publisher completion."
+ "sha256": "fca9366f2ec72bd0576cddbb3045c37e4905c2543c0b8031f209e75f30bfff92",
+ "notes": "DE8 HTTPS installer v1.0.0: install, verify heartbeat/ACK/result, rollback, notification-only update check. No secrets.",
+ "size": 15000
 }
