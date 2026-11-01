@@ -1,0 +1,4 @@
+Packaged-version: 1.0.0
+Source-commit: 7899957
+Package-commit: b2d816fe35bbc62aa64d0c56a566e79d44605b81
+Build-date: 2026-11-01
